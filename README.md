@@ -1,5 +1,17 @@
 # CLOVER-I3-4000M-HD4600-El-Capitan-hackintosh
+
+2018年3月3日更新：
+
+更新clover版本为[Clover_v2.4k_r4411](https://ufpr.dl.sourceforge.net/project/cloverefiboot/Installer/Clover_v2.4k_r4411.zip)最新版
+
+增加DSDT电池补丁（非完美，仅能显示是否为充电状态）
+
+增加新主题
+
+
+
 ## 黑苹果CLOVER引导 I3-4000M HD4600安装OS X 10.11
+
 * 电脑型号：神舟（HASEE）优雅 A500C
 * CPU：I3-4000M
 * GPU：HD4600
@@ -40,7 +52,7 @@
 * 3、无法正常升级10.12，升级花屏，想升级的朋友就不用尝试了，等待大神解决。
 
 
-  [1]: https://github.com/Techeek/CLOVER-I3-4000M-HD4600-El-Capitan-hackintosh
-  [2]: https://www.yayaus.com/2015/01/15/10-10-yosemite-i3-4000m.html
-  [3]: https://www.tonymacx86.com/threads/fix-intel-hd4200-hd4400-hd4600-mobile-on-yosemite.145427/
-  [4]: http://bbs.pcbeta.com/viewthread-1486647-1-1.html
+[1]: https://github.com/Techeek/CLOVER-I3-4000M-HD4600-El-Capitan-hackintosh
+[2]: https://www.yayaus.com/2015/01/15/10-10-yosemite-i3-4000m.html
+[3]: https://www.tonymacx86.com/threads/fix-intel-hd4200-hd4400-hd4600-mobile-on-yosemite.145427/
+[4]: http://bbs.pcbeta.com/viewthread-1486647-1-1.html
